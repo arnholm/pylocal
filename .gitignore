@@ -1,0 +1,6 @@
+/build/
+/examplepackage.egg-info/
+PKG-INFO
+requires.txt
+SOURCES.txt
+top_level.txt
